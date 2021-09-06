@@ -8,3 +8,4 @@ git user.name "***" 设置本地用户名
 git user.email "****" 设置用户邮箱
 git init 初始化本地仓库
 git add ./添加仓库所有文件
+git commit --all -m "这是说明"   将所有修改过的文件一次性放到房间里并添加说明
