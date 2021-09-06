@@ -2,7 +2,7 @@ cout<<"hello world"<<endl;
 第二次
 第三次
 git status 查看代码执行状态
-git add ./***.cpp  将代码放到暂存区
+git add ./***.cpp  将指定文件代码放到暂存区
 git commit -m "代码修改信息"  提交代码并作说明
 git user.name "***" 设置本地用户名
 git user.email "****" 设置用户邮箱
