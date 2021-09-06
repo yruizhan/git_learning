@@ -13,3 +13,4 @@ git add ./添加仓库所有文件
 git commit --all -m "这是说明"   将所有修改过的文件一次性放到房间里并添加说明
 git log 查看提交记录
 git log --oneline以时间线的方式查看提交记录，比较简洁
+git reset --hard Head~0 回退到上次提交版本
