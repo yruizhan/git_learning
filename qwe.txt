@@ -7,5 +7,3 @@ git commit -m "代码修改信息"  提交代码并作说明
 git user.name "***" 设置本地用户名
 git user.email "****" 设置用户邮箱
 git init 初始化本地仓库
-git 
- 
