@@ -23,6 +23,12 @@ git checkout master 切换回master分支
 git merge name 吞并name分支，当合并出现冲突时，则只能手动去修改代码，然后再次提交
 git branch -d name 删除name分支
 
+GitHub不是git
+
+提交代码到github
+
+
+
 
 
 
