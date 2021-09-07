@@ -26,6 +26,12 @@ git branch -d name 删除name分支
 GitHub不是git
 
 提交代码到github
+git push 
+
+拿回代码
+git pull [地址] master
+git clone [地址] 会新建仓库名。多次执行会覆盖内容
+
 
 
 
