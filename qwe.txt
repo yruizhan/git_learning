@@ -32,6 +32,10 @@ git push
 git pull [地址] master
 git clone [地址] 会新建仓库名。多次执行会覆盖内容
 
+ssh方式上传：可验证上传者身份
+公钥 私钥两者有关联，，私钥自己留着，公钥上传网站
+首先生成公钥和私钥：ssh-keygen -t rsa -C "1364601394@qq.com"
+
 
 
 
