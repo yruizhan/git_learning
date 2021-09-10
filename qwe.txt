@@ -36,6 +36,12 @@ ssh方式上传：可验证上传者身份
 公钥 私钥两者有关联，，私钥自己留着，公钥上传网站
 首先生成公钥和私钥：ssh-keygen -t rsa -C "1364601394@qq.com"
 
+给远程仓库地址命名
+git remote add origin SSH地址
+git push origin master,可以方便简写，不用每次都写SSH地址
+git push origin -u master，下次不用再写master,-u就是默认做了关联
+
+
 
 
 
